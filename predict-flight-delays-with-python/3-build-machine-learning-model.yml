@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn.using-python-and-azure-notebooks-to-build-predictive-machine-learning-models
+title: Exercise - Build Machine Learning Model
+metadata:
+  title: Exercise - Build Machine Learning Model
+  description: Exercise - Build Machine Learning Model
+  ms.date: 11/22/2018
+  #TODO: Update with real author name.
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/3-build-machine-learning-model.md)]

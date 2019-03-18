@@ -1,0 +1,55 @@
+### YamlMime:ModuleUnit
+uid: learn.building-smart-apps-with-azure-machine-learning.8-summary-and-knowledge-check
+title: Summary and knowledge check
+metadata:
+  title: Summary and knowledge check
+  description: Confirm that you understand the steps required to build a machine learning model with Azure Machine Learning Studio.
+  ms.date: 09/24/2018
+  #TODO: Update with real author name.
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+content: |
+  [!include[](includes/8-summary.md)]
+durationInMinutes: 10
+quiz:
+  title: Check your knowledge
+  questions:
+
+  - content: "When training a model, what module do you use to separate your data into training and testing sets?"
+    choices:
+    - content: "Edit Metadata"
+      isCorrect: false
+      incorrectExplanation: "The edit metadata module will only allow you to edit the metadata associated with the dataset."
+    - content: "Split Data"
+      isCorrect: true
+      correctExplanation: "The 'Split Data' model is used to split the data into training and testing sets."
+    - content: "Select Columns in Dataset"
+      isCorrect: false
+      incorrectExplanation: "The select columns module will only return a new dataset of the specified columns."
+
+  - content: "When evaluating your model, what module is used so you don't have to manually compare each value in the test dataset?"
+    choices:
+    - content: "Compare"
+      isCorrect: false
+      incorrectExplanation: "There is no compare module."
+    - content: "Score"
+      isCorrect: false
+      incorrectExplanation: "The score module will only score each row of data in the test set."
+    - content: "Evaluate"
+      isCorrect: true
+      correctExplanation: "The evaluate module will evaluate the scores of each row of data in the test set and compares each value for you."
+
+  - content: "How does the Electron client call the machine learning model?"
+    choices:
+    - content: "Through a REST API."
+      isCorrect: true
+      correctExplanation: "The web service that was created in Exercise 5 is used to call the model with a new set of data and returns the result."
+    - content: "The model is saved locally and called"
+      isCorrect: false
+      incorrectExplanation: "The model isn't saved locally when built with Azure Machine Learning Studio."
+    - content: "There is no machine learning model in the Electron client."
+      isCorrect: false
+      incorrectExplanation: "The Electron client does make a call to the machine learning model that was just created."

@@ -1,0 +1,37 @@
+### YamlMime:Module
+uid: learn.building-smart-apps-with-azure-machine-learning
+metadata:
+  title: Building Smart Apps with Azure Machine Learning - Learn
+  description: Build, train, and score a model that recognizes hand-written numeric digits. 
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Building Smart Apps with Azure Machine Learning
+summary: Build, train, and score a model that recognizes hand-written numeric digits.
+abstract:  | 
+  In this module, you will:
+  - Build, train, and score a model using Azure Machine Learning Studio
+  - Deploy your model as a Web service so it can be accessed from code or scripts
+  - Call an ML Web service from the apps that you write
+prerequisites:
+- An active Microsoft Azure subscription
+- Visual Studio Code
+- Node.js
+iconUrl: /learn/achievements/building-smart-apps-with-azure-machine-learning.svg
+levels:
+- beginner
+roles:
+- developer
+products:
+- azure
+units:
+- learn.building-smart-apps-with-azure-machine-learning.0-introduction
+- learn.building-smart-apps-with-azure-machine-learning.1-create-machine-learning-experiment
+- learn.building-smart-apps-with-azure-machine-learning.2-upload-a-dataset
+- learn.building-smart-apps-with-azure-machine-learning.3-train-a-classification-model
+- learn.building-smart-apps-with-azure-machine-learning.4-score-the-model
+- learn.building-smart-apps-with-azure-machine-learning.5-deploy-model-as-web-service
+- learn.building-smart-apps-with-azure-machine-learning.6-build-electron-client
+- learn.building-smart-apps-with-azure-machine-learning.7-test-the-model
+- learn.building-smart-apps-with-azure-machine-learning.8-summary-and-knowledge-check
+
+achievement: learn.building-smart-apps-with-azure-machine-learning.badge 

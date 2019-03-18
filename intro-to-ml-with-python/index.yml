@@ -1,0 +1,37 @@
+### YamlMime:Module
+uid: learn.building-jupyter-notebooks-with-azure-notebooks
+metadata:
+  title: Building Jupyter Notebooks with Azure Notebooks - Learn
+  description:  Create an Azure Notebook and use hree popular Python libraries to analyze climate data collected by NASA, then create a slide show from the notebook and share it.
+  ms.date: 09/24/2018
+  author: lnyswonger
+  ms.author: luken
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  #ms.learn-contact: luken
+title: Building Jupyter Notebooks with Azure Notebooks
+summary: Create an Azure Notebook and use hree popular Python libraries to analyze climate data collected by NASA, then create a slide show from the notebook and share it.
+abstract:  | 
+  In this module, you will:
+  - Create a notebook in Azure Notebooks
+  - Upload, manipulate, and visualize data in a notebook
+  - Create a slide show from a notebook
+  - Share notebooks online
+prerequisites: None
+iconUrl: /learn/achievements/building-jupyter-notebooks-with-azure-notebooks.svg
+levels:
+- beginner
+roles:
+- developer
+products:
+- azure
+units:
+- learn.building-jupyter-notebooks-with-azure-notebooks.0-introduction
+- learn.building-jupyter-notebooks-with-azure-notebooks.1-create-library-and-notebook
+- learn.building-jupyter-notebooks-with-azure-notebooks.2-upload-data-and-create-scatterplot
+- learn.building-jupyter-notebooks-with-azure-notebooks.3-perform-linear-regression-with-numpy
+- learn.building-jupyter-notebooks-with-azure-notebooks.4-analyze-data-with-seaborn
+- learn.building-jupyter-notebooks-with-azure-notebooks.5-create-a-slideshow
+- learn.building-jupyter-notebooks-with-azure-notebooks.6-share-a-notebook
+- learn.building-jupyter-notebooks-with-azure-notebooks.7-summary-and-knowledge-check
+achievement: learn.building-jupyter-notebooks-with-azure-notebooks.badge 

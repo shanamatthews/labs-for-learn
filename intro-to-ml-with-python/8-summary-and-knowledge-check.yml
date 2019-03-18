@@ -1,0 +1,55 @@
+### YamlMime:ModuleUnit
+uid: learn.building-jupyter-notebooks-with-azure-notebooks.7-summary-and-knowledge-check
+title: Summary and knowledge check
+metadata:
+  title: Summary and knowledge check
+  description: Confirm that you understand the steps required to create and use an Azure Notebook.
+  ms.date: 09/24/2018
+  #TODO: Update with real author name.
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+content: |
+  [!include[](includes/7-summary.md)]
+durationInMinutes: 10
+quiz:
+  title: Check your knowledge
+  questions:
+
+  - content: "What is a strength of using Jupyter Notebooks?"
+    choices:
+    - content: "Can use different databases by choosing different kernels."
+      isCorrect: false
+      incorrectExplanation: "Kernels don't do anything with databases."
+    - content: "Can use different languages by choosing different kernels."
+      isCorrect: true
+      correctExplanation: "Different kernels can allow you to use a specific language in a notebook."
+    - content: "Can use different themes by choosing different kernels."
+      isCorrect: false
+      incorrectExplanation: "Kernels don't do anything with choosing a theme."
+
+  - content: "What kind of line can a linear regression help create?"
+    choices:
+    - content: "Differentiation"
+      isCorrect: false
+      incorrectExplanation: "The line doesn't show a differentiation of the data."
+    - content: "Slope"
+      isCorrect: false
+      incorrectExplanation: "The slope is part of the line but doesn't describe the line."
+    - content: "Trend"
+      isCorrect: true
+      correctExplanation: "The trend line helps show how the data is trending over time."
+
+  - content: "What two ways can you share a notebook from Azure Notebooks?"
+    choices:
+    - content: "Sharing and downloading the notebook file"
+      isCorrect: true
+      correctExplanation: "You can share through on social media, through email, and download the notebook to share it."
+    - content: "Downloading the notebook file and make a post on Twitter"
+      isCorrect: false
+      incorrectExplanation: "You can do more to share than just posting on Twitter."
+    - content: "Sharing and make a post on Twitter"
+      isCorrect: false
+      incorrectExplanation: "You can do more to share than just posting on Twitter."

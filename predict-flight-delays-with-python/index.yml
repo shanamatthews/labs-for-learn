@@ -1,0 +1,33 @@
+### YamlMime:Module
+uid: learn.using-python-and-azure-notebooks-to-build-predictive-machine-learning-models
+metadata:
+  title: Build a machine learning model with Python and Azure Notebooks - Learn
+  description: Get and clean data to build a machine learning model with Python. 
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Build a machine learning model with Python and Azure Notebooks
+summary: Get and clean data to build a machine learning model with Python.
+abstract:  | 
+  In this module, you will:
+  - Create an Azure Notebook and import data
+  - Use Pandas to clean and prepare data
+  - Use Scikit-learn to build a machine-learning model
+  - Use Matplotlib to visualize the output
+prerequisites:
+- An active Microsoft Azure subscription
+iconUrl: /learn/achievements/using-python-and-azure-notebooks-to-build-predictive-machine-learning-models.svg
+levels:
+- beginner
+roles:
+- developer
+products:
+- azure
+units:
+- learn.using-python-and-azure-notebooks-to-build-predictive-machine-learning-models.0-introduction
+- learn.using-python-and-azure-notebooks-to-build-predictive-machine-learning-models.1-create-notbook-and-import-data
+- learn.using-python-and-azure-notebooks-to-build-predictive-machine-learning-models.2-clean-and-prepare-data
+- learn.using-python-and-azure-notebooks-to-build-predictive-machine-learning-models.3-build-machine-learning-model
+- learn.using-python-and-azure-notebooks-to-build-predictive-machine-learning-models.4-visualize-output
+- learn.using-python-and-azure-notebooks-to-build-predictive-machine-learning-models.5-visualize-output
+
+achievement: learn.using-python-and-azure-notebooks-to-build-predictive-machine-learning-models.badge 

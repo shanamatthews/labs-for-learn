@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn.building-jupyter-notebooks-with-azure-notebooks.3-perform-linear-regression-with-scikit-learn
+title: Perform Linear Regression with Scikit Learn
+metadata:
+  title: Perform Linear Regression with Scikit Learn
+  description: Perform Linear Regression with Scikit Learn
+  ms.date: 09/24/2018
+  #TODO: Update with real author name.
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/3-perform-linear-regression-with-numpy.md)]

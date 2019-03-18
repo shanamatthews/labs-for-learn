@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn.building-smart-apps-with-azure-machine-learning.2-upload-a-dataset
+title: Exercise - Upload a Dataset
+metadata:
+  title: Exercise - Upload a Dataset
+  description: Exercise - Upload a Dataset
+  ms.date: 11/22/2018
+  #TODO: Update with real author name.
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/2-upload-a-dataset.md)]
