@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn.stream-analytics-and-machine-learning
+title: Exercise - Visualize the Output with Power BI
+metadata:
+  title: Exercise - Visualize the Output with Power BI
+  description: Exercise - Visualize the Output with Power BI
+  ms.date: 11/22/2018
+  #TODO: Update with real author name.
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+durationInMinutes: 5
+content: |
+  [!include[](includes/4-visualize-output-with-powerbi.md)]

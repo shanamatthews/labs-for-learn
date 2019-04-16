@@ -1,0 +1,35 @@
+### YamlMime:Module
+uid: learn.stream-analytics-and-machine-learning
+metadata:
+  title: Build a machine learning model with Azure Stream Analytics - Learn
+  description: Get analyze streaming data to build a machine learning model and visualize the output. 
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Build a machine learning model with Azure Stream Analytics
+summary: Build a machine learning model with Azure Stream Analytics.
+abstract:  | 
+  In this module, you will:
+  - Inject streaming data with Azure IoT Hub
+  - Analyze the data with Azure Stream Analytics
+  - Use Cognitive Services to predict results
+  - Use Power BI to visualize the output
+prerequisites:
+- An active Microsoft Azure subscription
+- NodeJS
+- Power BI Desktop
+iconUrl: /learn/achievements/ream-analytics-and-machine-learning.svg
+levels:
+- beginner
+roles:
+- developer
+products:
+- azure
+units:
+- learn.stream-analytics-and-machine-learning.0-introduction
+- learn.stream-analytics-and-machine-learning.1-create-azure-resources
+- learn.stream-analytics-and-machine-learning.2-analyze-streaming-data
+- learn.stream-analytics-and-machine-learning.3-train-and-test-image-classifier
+- learn.stream-analytics-and-machine-learning.4-visualize-output-with-powerbi
+- learn.stream-analytics-and-machine-learning.5-summary-and-knowledge-check
+
+achievement: learn.ream-analytics-and-machine-learning.badge 
