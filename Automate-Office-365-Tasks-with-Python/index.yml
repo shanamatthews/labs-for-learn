@@ -1,0 +1,36 @@
+### YamlMime:Module
+uid: learn.automate-office-365-tasks-with-python
+metadata:
+  title: Automate Office 365 Tasks with Python - Learn
+  description: Use Python to automate common tasks involving Office 365
+  ms.date: 06/30/2018
+  author: v-jeffpr
+  ms.author: shana.matthews
+  ms.topic: interactive-tutorial
+  ms.prod: learning-python
+title: Automate Office 365 Tasks with Python
+summary: Use Python to automate common tasks involving Office 365
+abstract:  | 
+  In this module, you will:
+  - Set up a working Python environment
+  - Create Microsoft Word documents with python-docx
+  - Create Excel spreadsheets with OpenPyXLL
+  - Write user-defined functions (UDFs) for Excel in Python with Xlwings
+  - Manipulate PDF documents with PyPDF4
+prerequisites: Familiarity with the Python programming language
+#iconUrl:
+levels:
+- beginner
+roles:
+- developer
+products:
+- Office 365, Python
+units:
+- learn.automate-office-365-tasks-with-python.0-introduction
+- learn.automate-office-365-tasks-with-python.1-set-up-environment
+- learn.automate-office-365-tasks-with-python.2-2-analyze-data-create-word-doc
+- learn.automate-office-365-tasks-with-python.3-read-from-and-write-to-a-microsoft-excel-document-using-openpyxl
+- learn.automate-office-365-tasks-with-python.4-perform-sentiment-analysis-in-excel
+- learn.automate-office-365-tasks-with-python.5-manage-pdfs-with-pypdf4
+- learn.automate-office-365-tasks-with-python.6-summary
+achievement: learn.placeholder.badge

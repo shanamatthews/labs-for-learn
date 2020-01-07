@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.oop-in-python.2-attributes
+title: Attributes
+metadata:
+  title: Attributes
+  description: Use attributes in Python
+  ms.date: 5/31/2019
+  author: v-jeffpr
+  ms.author: shana.matthews
+  ms.topic: interactive-tutorial
+  ms.prod: learn-python
+  ROBOTS: NOINDEX
+durationInMinutes: 10
+content: |
+  [!include[](includes/2-attributes.md)]
